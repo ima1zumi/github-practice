@@ -1,1 +1,2 @@
 readme
+GitHubの基本を理解する
